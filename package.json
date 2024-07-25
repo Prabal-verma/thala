@@ -1,0 +1,14 @@
+{
+  "name": "thala",
+  "version": "1.0.0",
+  "description": "Thala for a reason",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "poxy",
+  "license": "ISC"
+}
